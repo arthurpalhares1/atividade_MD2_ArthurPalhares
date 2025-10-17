@@ -39,11 +39,11 @@ Implementação de códigos em C++ para a disciplina de Matemática Discreta II,
 
   ### 🚀 Como Compilar e Executar os Programas
 
-  Exemplo Questão 01:
+* **Exemplo Questão 01:**
 
   # Para compilar:
-g++ -o Questao_1.exe Questao_1.cpp
+  g++ -o Questao_1.exe Questao_1.cpp
 
-# Para executar:
-./Questao_1.exe
+  # Para executar:
+  ./Questao_1.exe
 
