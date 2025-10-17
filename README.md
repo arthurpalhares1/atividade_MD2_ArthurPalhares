@@ -10,13 +10,23 @@
 **Feito por:** Arthur Palhares Ferreira Silva
 **Matrícula:** 232000688
 
-**Matéria:** Matemática Discreta 2, ministrada por Cristiane Loesch de Souza Costa com apoio do monitor Arthur Fernandes
-
 ---
 
 ### Objetivo
 
-Esta atividade faz parte da Prova 2, que totaliza 8 pontos. Os 2 pontos correspondem a esta atividade de código, que envolve a resolução de quatro questões relacionadas aos conteúdos estudados em aula. O objetivo é aplicar os conceitos teóricos em problemas práticos por meio de programação.
+Implementação de códigos em C++ para a disciplina de Matemática Discreta II, com o propósito de aplicar na prática os conceitos teóricos estudados em aula. O projeto aborda a resolução de quatro questões distintas, focando nos seguintes algoritmos e teorias:
+
+* [cite_start]A construção de um sistema de criptografia **RSA** completo, que envolve a fatoração de números com o **método p de Pollard**, a geração de chaves com os **algoritmos de Euclides** (padrão e estendido) e a aplicação dos **teoremas de Fermat e Euler** para otimizar a exponenciação modular[cite: 20, 21].
+
+* [cite_start]O cálculo do **Mínimo Múltiplo Comum (MMC)** como solução para o problema de sincronização de eventos periódicos ("Chaves Periódicas")[cite: 85, 97].
+
+* [cite_start]A análise de propriedades de um número N através do cálculo das funções **τ(N)** (número de divisores) e **σ(N)** (soma dos divisores), a partir de sua fatoração prima[cite: 104, 105, 112].
+
+* [cite_start]A finalização e análise de um código que realiza operações de **divisão e exponenciação modular**, demonstrando o entendimento prático desses algoritmos[cite: 130].
+
+[cite_start]Um requisito central em todas as implementações é a exibição de um passo a passo detalhado dos cálculos, garantindo a clareza do processo de resolução[cite: 295, 296].### Objetivo
+
+Implementação de
 
 ---
 
