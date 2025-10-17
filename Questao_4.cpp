@@ -102,4 +102,31 @@ int main() {
     printf("Valor final da congruencia: %lld\n", resultado);
 
     return 0;
+
 }
+
+/* Entradas e saídas do código:
+Insira H: 7
+Insira G: 3
+Insira Zn: 11
+Insira x: 10
+Insira n1: 13 
+
+
+O inverso de 3 mod 11 e: 4
+Fazendo a multiplicacao modular: (7 * 4) mod 11 = 6
+
+Calculando a^x mod n1 (a=6, x=10, n1=13)...        
+
+Sendo 4 o inverso de 3 mod 11
+Valor final da congruencia: 4
+
+Resposta V ou F:
+( V ) O algoritmo de Euclides estendido é utilizado para calcular o inverso modular de um número.
+( F ) Se mdc(G, Zn) ≠ 1, o programa ainda consegue encontrar o inverso de G em Zn.
+( V ) A operação (H * inverso) % Zn representa a divisão modular de H por G.
+( F ) Se n1 for primo, o código aplica o Pequeno Teorema de Fermat para simplificar o cálculo de a^x mod n1.
+( F ) A função powMod implementa o cálculo de potência modular utilizando multiplicações diretas sem otimização.
+( V ) Quando o resultado do inverso é negativo, o código ajusta o valor somando o módulo m0.
+
+*/
