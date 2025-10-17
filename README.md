@@ -35,3 +35,15 @@ Implementação de códigos em C++ para a disciplina de Matemática Discreta II,
 * **(V)** Quando o resultado do inverso é negativo, o código ajusta o valor somando o módulo m0.
 * **(V)** O cálculo de fi(n1) (função totiente de Euler) é utilizado apenas quando nl não é primo.
 
+  ---
+
+  ### 🚀 Como Compilar e Executar os Programas
+
+  Exemplo Questão 01:
+
+  # Para compilar:
+g++ -o Questao_1.exe Questao_1.cpp
+
+# Para executar:
+./Questao_1.exe
+
